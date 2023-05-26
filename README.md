@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AYs99
-- 👀 I’m interested in reading novels and anime
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Abdalla Yassein
+- 👀 I’m interested in learning new technologies and improving my self
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me : abdallahali3399@gmail.com
 
 <!---
